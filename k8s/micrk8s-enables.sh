@@ -2,5 +2,5 @@
 
 set -x
 
-microk8s.enable storage ingress
+microk8s.enable storage ingress dns
 
